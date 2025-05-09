@@ -1,5 +1,4 @@
 - @LIVEPORK/EVILPORK
-- Beginner Programmer 35th Day
 - First Language = C++
 <!---
 0xLIVEPORK/0xLIVEPORK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
