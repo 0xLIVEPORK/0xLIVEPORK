@@ -1,4 +1,4 @@
-- @LIVEPORK/EVILPORK
+@LIVEPORK/EVILPORK
 
 I'm only learning how to code to
 fund my hair transplant : (
